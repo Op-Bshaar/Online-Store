@@ -1,0 +1,33 @@
+
+.hero-style{
+    margin-top: 50px;
+    background-color: rgb(160, 201, 224);
+    margin-left: 50px;
+    display: flex;
+}
+.Hero-section{
+ margin-left: 50px;
+ padding: 10px;
+    
+}
+.Hero-contant h5{
+  margin-top: 10px;
+  font-weight: 30px;
+}
+.Hero-contant h2{
+    font-size: 60px;
+    font-weight: 100;
+}
+.Hero-contant button{
+   border: none;
+   background-color: rgb(50, 50, 130);
+   border: 2px solid rgb(199, 206, 210);
+  border-radius: 25px;
+   padding: 10px;
+   margin-left: 200px;
+   margin-top: 20px;
+   cursor: pointer;
+}
+.Hero-contant button span{
+    color: white;
+}
